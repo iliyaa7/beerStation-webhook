@@ -36,6 +36,7 @@
     "mongoose": "^6.1.5",
     "pretier": "^0.0.1",
     "prettier": "^2.6.2",
+    "stripe": "^9.8.0",
     "validator": "^13.7.0",
     "winston": "^3.6.0"
   }
