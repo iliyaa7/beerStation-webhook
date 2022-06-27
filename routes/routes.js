@@ -10,6 +10,7 @@ router.post('/charge', chargeUser);
 
 router.post('/cardcomWebhook', catchWebhook);
 
+router.get('/cardcomWebhook', catchWebhook);
 
 module.exports = router;
 
